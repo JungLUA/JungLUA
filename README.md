@@ -7,7 +7,7 @@ Python과 JavaScript를 좋아하고, 지루한 일을 대신할 로봇을 만�
 ## 📘 About Me
 
 - 🔧 RPA와 웹 개발을 좋아합니다  
-- 💻 주로 쓰는 기술: Python, JavaScript, UiPath  
+- 💻 주로 쓰는 기술: R, Python, JavaScript, UiPath
 - 🎯 자동화, 깔끔한 로직, 사람을 배려하는 UX에 관심이 많습니다  
 - 🗨️ 기술 이야기는 언제든 환영입니다 → [Q&A / Issues](https://github.com/JungLUA/JungLUA/issues)
 
