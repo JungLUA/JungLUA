@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="[https://github.com/your-username/your-repo-name/blob/main/intro-image.png](https://github.com/JungLUA/JungLUA/blob/main/intro.png)" alt="Jung's profile intro" width="600"/>
+  <img src="https://github.com/JungLUA/JungLUA/blob/main/intro.png" alt="Jung's profile intro" width="600"/>
 </p>
 
 <!--
