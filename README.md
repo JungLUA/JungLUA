@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io "><img width="80%" alt="Hello, I'm Jung" src="./intro2.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io "><img width="80%" alt="Hello, I'm Jung" src="./intro.png" /></a></p>
 
 <br />
 
