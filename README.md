@@ -2,16 +2,15 @@
 
 <br />
 
-I'm a self-taught developer from Korea 🇰🇷  
-Passionate about Python, JavaScript, and making robots do the boring stuff 🤖
+저는 🇰🇷 한국에서 독학으로 개발을 공부한 사람입니다.  
+Python과 JavaScript를 좋아하고, 지루한 일을 대신할 로봇을 만드는 걸 즐깁니다 🤖
 
 ## 📘 About Me
 
-- 🔧 RPA & Web Development enthusiast  
-- 💻 Favorite tools: Python, JavaScript, UiPath  
-- 🎯 Passionate about automation, clean logic, and human-friendly UX  
-- 🗨️ Let's talk tech → [Q&A / Issues](https://github.com/JungLUA/JungLUA/issues)
-
+- 🔧 RPA와 웹 개발을 좋아합니다  
+- 💻 주로 쓰는 기술: Python, JavaScript, UiPath  
+- 🎯 자동화, 깔끔한 로직, 사람을 배려하는 UX에 관심이 많습니다  
+- 🗨️ 기술 이야기는 언제든 환영입니다 → [Q&A / Issues](https://github.com/JungLUA/JungLUA/issues)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
