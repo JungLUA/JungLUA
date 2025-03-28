@@ -2,7 +2,8 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught developer from Korea 🇰🇷  
+Passionate about Python, JavaScript, and making robots do the boring stuff 🤖
 
 ## 📘 About Me
 
